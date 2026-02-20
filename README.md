@@ -38,4 +38,3 @@ Contributions are welcome! Please open issues or pull requests for improvements.
 
 ---
 
-Feel free to replace placeholders like `https://github.com/yourusername/flatvodka.git` with your actual repository URL, and add any additional details you want to include!
