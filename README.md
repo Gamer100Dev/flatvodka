@@ -28,7 +28,7 @@ FlatVodka is a tool for managing and running Flatpak applications inside FreeBSD
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the BSD License. See [LICENSE](LICENSE) for details.
 
 ---
 
